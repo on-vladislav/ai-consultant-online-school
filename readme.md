@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Начало проекта AI assistant online school
 
 ## 1. Настройка взаимодействия GitHub и VSCode
