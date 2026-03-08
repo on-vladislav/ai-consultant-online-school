@@ -278,4 +278,5 @@ Lead Flow
 Prompt Engineer  
 AI Automation Specialist
 
-GitHub используется как демонстрация практического проекта внедрения AI-консультанта в бизнес-процессы онлайн-школы.
+В этом репозитории представлена разработка консультанта на основе искусственного интеллекта для онлайн-школы английского языка, включая архитектуру диалогов, промпт-инжиниринг и интеграцию с внешними сервисами.
+This repository demonstrates the development of an AI-powered consultant for an online English school, including dialog architecture, prompt engineering, and integration with external services.
