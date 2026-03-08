@@ -158,7 +158,7 @@ Telegram Bot (admin notifications)
 
 # Скриншоты
 
-## Веб-сайт
+## Веб-сайт https://onishchukvlad.ru/school
 
 Главная страница
 
